@@ -1,0 +1,21 @@
+h1 {
+Font-weight:bold;
+Font-size:32px;
+
+}
+h2{
+Color:blue;
+Font-size:18px;
+
+}
+h1,h2,.p1 {
+Font-family:Georgia;
+}
+.p1 {
+font-size:16px;
+text-align: center;
+}
+.p2 {
+color:rgb(255,0,0);
+text-align: left;
+}
